@@ -8,13 +8,25 @@ Welcome to Django OAuth Client's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   
+   Pages/instalation
+   Pages/configuration
+   Pages/views
+   Pages/urls
+   Pages/providers
+   Pages/customization'
+
+.. toctree:: 
+   :maxdepth: 2
+   :caption: Guides
+
+   Pages/guides/oauth2-workflow
+   Pages/guides/create-new-provider
+   Pages/guides/extend-OAuth2Account
+   Pages/guides/customize-views
 
 
+   
 
-Indices and tables
-==================
+.. attention:: This is a work in progress. Please contribute!
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
